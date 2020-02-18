@@ -1,7 +1,7 @@
 Astronaut ,Selection Year, Group, # Flights ,Status ,Military or civilian,Gender,If military include details,Date of birth,Job,Missions flown,Cumulative hours of space flight time
 Joseph Acba,2004,19 ,1,Current ,Civilian,Male,,5/17/1967,Educator Mission Specialist,STS-119,307
 Richard Arnold,2004,19 ,0 ,Current ,Civilian,Male,,11/26/1963,Educator Mission Specialist,STS-119,307
-Oleg Skripocha,2004,19 ,1,Current ,Military,Male,"Major, USMC",9/11/1967,Pilot,STS-129,259
+Oleg Skripochka,2004,19 ,1,Current ,Military,Male,"Major, USMC",9/11/1967,Pilot,STS-129,259
 Christopher Cassidy,2004,19 ,1,Candidate ,Military,Male,"Lieutenant Commander, US Navy",1/4/1970,Mission Specialist,STS-127,376
 James Dutton,2004,19 ,0 ,Candidate ,Military,Male,"Major, US Air Force",11/20/1968,Pilot,STS-131,362
 Andrew Morgan,2004,19 ,1,Former,Civilian,Male,,8/7/1962,Mission Specialist,STS-128,332
